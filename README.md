@@ -1,2 +1,3 @@
 # hello-world
-Quick GitHub intro
+Quick GitHub intro.
+Example text goes here.
